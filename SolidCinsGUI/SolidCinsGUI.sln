@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SolidCinsGUI", "SolidCinsGUI\SolidCinsGUI.csproj", "{6777D3A4-D411-416D-95AB-30BA9320D267}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{580C5B96-1DAF-4E0D-A8C6-0CEA63DB483C}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6777D3A4-D411-416D-95AB-30BA9320D267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6777D3A4-D411-416D-95AB-30BA9320D267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6777D3A4-D411-416D-95AB-30BA9320D267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6777D3A4-D411-416D-95AB-30BA9320D267}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F90B47A-E925-4582-B6D8-ACD4B4975B33}
+	EndGlobalSection
+EndGlobal

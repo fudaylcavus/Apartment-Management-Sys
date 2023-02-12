@@ -1,0 +1,15 @@
+C:\Users\fuday\Desktop\FM_IPC_CINSAPP\SolidCinsAppServer\SolidCinsAppServer\obj\Debug\net6.0\SolidCinsAppServer.csproj.AssemblyReference.cache
+C:\Users\fuday\Desktop\FM_IPC_CINSAPP\SolidCinsAppServer\SolidCinsAppServer\obj\Debug\net6.0\SolidCinsAppServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuday\Desktop\FM_IPC_CINSAPP\SolidCinsAppServer\SolidCinsAppServer\obj\Debug\net6.0\SolidCinsAppServer.AssemblyInfoInputs.cache
+C:\Users\fuday\Desktop\FM_IPC_CINSAPP\SolidCinsAppServer\SolidCinsAppServer\obj\Debug\net6.0\SolidCinsAppServer.AssemblyInfo.cs
+C:\Users\fuday\Desktop\FM_IPC_CINSAPP\SolidCinsAppServer\SolidCinsAppServer\obj\Debug\net6.0\SolidCinsAppServer.csproj.CoreCompileInputs.cache
+C:\Users\fuday\Desktop\FM_IPC_CINSAPP\SolidCinsAppServer\SolidCinsAppServer\bin\Debug\net6.0\SolidCinsAppServer.exe
+C:\Users\fuday\Desktop\FM_IPC_CINSAPP\SolidCinsAppServer\SolidCinsAppServer\bin\Debug\net6.0\SolidCinsAppServer.deps.json
+C:\Users\fuday\Desktop\FM_IPC_CINSAPP\SolidCinsAppServer\SolidCinsAppServer\bin\Debug\net6.0\SolidCinsAppServer.runtimeconfig.json
+C:\Users\fuday\Desktop\FM_IPC_CINSAPP\SolidCinsAppServer\SolidCinsAppServer\bin\Debug\net6.0\SolidCinsAppServer.dll
+C:\Users\fuday\Desktop\FM_IPC_CINSAPP\SolidCinsAppServer\SolidCinsAppServer\bin\Debug\net6.0\SolidCinsAppServer.pdb
+C:\Users\fuday\Desktop\FM_IPC_CINSAPP\SolidCinsAppServer\SolidCinsAppServer\obj\Debug\net6.0\SolidCinsAppServer.dll
+C:\Users\fuday\Desktop\FM_IPC_CINSAPP\SolidCinsAppServer\SolidCinsAppServer\obj\Debug\net6.0\refint\SolidCinsAppServer.dll
+C:\Users\fuday\Desktop\FM_IPC_CINSAPP\SolidCinsAppServer\SolidCinsAppServer\obj\Debug\net6.0\SolidCinsAppServer.pdb
+C:\Users\fuday\Desktop\FM_IPC_CINSAPP\SolidCinsAppServer\SolidCinsAppServer\obj\Debug\net6.0\SolidCinsAppServer.genruntimeconfig.cache
+C:\Users\fuday\Desktop\FM_IPC_CINSAPP\SolidCinsAppServer\SolidCinsAppServer\obj\Debug\net6.0\ref\SolidCinsAppServer.dll
